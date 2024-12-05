@@ -24,3 +24,46 @@
 6. Töröld ami nem kell
     * Kis lépésekben programozunk: a felmerülő igényekre dinamikusan tudunk reagálni.
     * Csak akkor vezetsz be új funkciókat ha tényleg szükséges.
+7. Ne imsételd magad
+    * A duplikált sorok növelik a hibázási arányt
+    * A bugok és a rossz működés leggyakoribb oka a kód ismétlés
+8. Ésszerű funkciónalitás
+    * A kilométeres függvénydefiníciók könnyen zsúfoltá teszik a kódot ezzel átláthatatlanná
+    * Ha a függvény többet csinál mint amire a neve utal akkor a felesleges részt egy másik függvénybe kell szervezni.
+    * Rövid max 4-5 soros függvény törzsek az általános programozásban (Web esetén ez lehet 5-20 sor).
+9. Mágikus értékek
+    * Van valami hasznuk de senki nem tudja mi a legtöbb esetben ezek számok és szövegek
+    * Helyettük inkább használjunk erre a célre is beszédes változókat amiből kiderül mire is valók
+10. Újrafelhasználhatóság
+    * Ha már egy funckiót megírtunk korábban akkor azt ujra fel lehet használni.
+## Elönyök
+* Egyszerűen lehet kód módosításokat végezni
+* Kisebb hibaarány 
+* csapatmunka kompatiblis
+* Nagyibb teljesítmény a kisebb kódrészek miatt
+* Más projektekbe is fel lehet használni a jól megírt komponenseket és modulokat
+* A saját stílusodhoz tudod alakítani
+## Hátrányai
+* időigényesebb
+* fokozott koncentrációt igényel
+* Szellemileg sokkal kimerítőbb
+* Ha nem gyakorolja az ember nem effektív
+
+# NevezékTan
+A változó neve amit használni akarok a `number Of students`-ból fog jönni
+1. Snake Case
+    * A változó szavai egymástól aláhuzásjellel vannak elválasztva
+    * pl.: `number_Of_students`
+    * használati esetek: Python, fájlok elnevezésére tökéletes választás
+2. Kebab Case
+    * A változó szavai egymástól kötőjellel vannak elválasztva
+    * pl.: `number-of-students`
+    * használati esetek: FrontEnd-Js rendszerek pl.: Vue.js, URL
+3. Camel Case
+    * A változó szavait egyben írjuk ée és ,minden új szó esetén nagy kezdőbetűvel van az első szó kivételével
+    * pl.: `numberOfStudents`
+    * Használati esetek: Js, C#, Java
+4. Pascal Case
+    * A változó szavait egyben írjuk le és minden szó első betüje nagy 
+    * pl.: `NumberOfStudents`
+    * Használati esetek: C# (osztályok és függvények), Js(osztályok)
