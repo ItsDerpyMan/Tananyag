@@ -1,0 +1,15 @@
+D:\BaranyaiNoel\Tananyag\Csharp-files\exercises\2025_01_30\2025_01_30\bin\Debug\net8.0\2025_01_30.exe
+D:\BaranyaiNoel\Tananyag\Csharp-files\exercises\2025_01_30\2025_01_30\bin\Debug\net8.0\2025_01_30.deps.json
+D:\BaranyaiNoel\Tananyag\Csharp-files\exercises\2025_01_30\2025_01_30\bin\Debug\net8.0\2025_01_30.runtimeconfig.json
+D:\BaranyaiNoel\Tananyag\Csharp-files\exercises\2025_01_30\2025_01_30\bin\Debug\net8.0\2025_01_30.dll
+D:\BaranyaiNoel\Tananyag\Csharp-files\exercises\2025_01_30\2025_01_30\bin\Debug\net8.0\2025_01_30.pdb
+D:\BaranyaiNoel\Tananyag\Csharp-files\exercises\2025_01_30\2025_01_30\obj\Debug\net8.0\2025_01_30.GeneratedMSBuildEditorConfig.editorconfig
+D:\BaranyaiNoel\Tananyag\Csharp-files\exercises\2025_01_30\2025_01_30\obj\Debug\net8.0\2025_01_30.AssemblyInfoInputs.cache
+D:\BaranyaiNoel\Tananyag\Csharp-files\exercises\2025_01_30\2025_01_30\obj\Debug\net8.0\2025_01_30.AssemblyInfo.cs
+D:\BaranyaiNoel\Tananyag\Csharp-files\exercises\2025_01_30\2025_01_30\obj\Debug\net8.0\2025_01_30.csproj.CoreCompileInputs.cache
+D:\BaranyaiNoel\Tananyag\Csharp-files\exercises\2025_01_30\2025_01_30\obj\Debug\net8.0\2025_01_30.sourcelink.json
+D:\BaranyaiNoel\Tananyag\Csharp-files\exercises\2025_01_30\2025_01_30\obj\Debug\net8.0\2025_01_30.dll
+D:\BaranyaiNoel\Tananyag\Csharp-files\exercises\2025_01_30\2025_01_30\obj\Debug\net8.0\refint\2025_01_30.dll
+D:\BaranyaiNoel\Tananyag\Csharp-files\exercises\2025_01_30\2025_01_30\obj\Debug\net8.0\2025_01_30.pdb
+D:\BaranyaiNoel\Tananyag\Csharp-files\exercises\2025_01_30\2025_01_30\obj\Debug\net8.0\2025_01_30.genruntimeconfig.cache
+D:\BaranyaiNoel\Tananyag\Csharp-files\exercises\2025_01_30\2025_01_30\obj\Debug\net8.0\ref\2025_01_30.dll

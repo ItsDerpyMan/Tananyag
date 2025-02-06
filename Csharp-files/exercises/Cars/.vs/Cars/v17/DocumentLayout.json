@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BaranyaiNoel\\Tananyag\\Csharp-files\\exercises\\Cars\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C60FFBC0-020F-47AB-83B9-4E08642BE7F7}|Cars\\Cars.csproj|d:\\baranyainoel\\tananyag\\csharp-files\\exercises\\cars\\cars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C60FFBC0-020F-47AB-83B9-4E08642BE7F7}|Cars\\Cars.csproj|solutionrelative:cars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C60FFBC0-020F-47AB-83B9-4E08642BE7F7}|Cars\\Cars.csproj|d:\\baranyainoel\\tananyag\\csharp-files\\exercises\\cars\\cars\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C60FFBC0-020F-47AB-83B9-4E08642BE7F7}|Cars\\Cars.csproj|solutionrelative:cars\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Car.cs",
+              "DocumentMoniker": "D:\\BaranyaiNoel\\Tananyag\\Csharp-files\\exercises\\Cars\\Cars\\Car.cs",
+              "RelativeDocumentMoniker": "Cars\\Car.cs",
+              "ToolTip": "D:\\BaranyaiNoel\\Tananyag\\Csharp-files\\exercises\\Cars\\Cars\\Car.cs",
+              "RelativeToolTip": "Cars\\Car.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAwwC4AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T12:28:42.741Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\BaranyaiNoel\\Tananyag\\Csharp-files\\exercises\\Cars\\Cars\\Program.cs",
+              "RelativeDocumentMoniker": "Cars\\Program.cs",
+              "ToolTip": "D:\\BaranyaiNoel\\Tananyag\\Csharp-files\\exercises\\Cars\\Cars\\Program.cs",
+              "RelativeToolTip": "Cars\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAgwCkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T12:23:20.378Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
