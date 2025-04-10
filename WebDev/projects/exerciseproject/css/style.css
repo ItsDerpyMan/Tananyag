@@ -1,0 +1,40 @@
+main#container {
+  display: flex;
+  gap: 1rem;
+  align-items: flex-start;
+  margin-top: 1rem;
+}
+section.list,
+section.data {
+  border: 1px solid #ccc;
+  padding: 1rem;
+}
+
+section.list {
+  max-width: 20em;
+  order: 1;
+}
+
+section.data {
+  flex: 1; /* take remaining space */
+  max-width: 100%; /* avoids overflowing */
+  display: flex;
+  flex-direction: column; /* stacks internal articles top-down */
+  gap: 1rem;
+  order: 2;
+}
+
+article {
+  border-bottom: 1px solid #ccc;
+  width: fit-content;
+  padding-right: 7%;
+}
+h2 {
+  margin: 0%;
+  border-bottom: 1px solid #ccc;
+  width: fit-content;
+}
+.highlight {
+  color: black;
+  background-color: yellow;
+}
